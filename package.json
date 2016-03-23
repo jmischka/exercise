@@ -1,0 +1,8 @@
+{
+  "name": "getting-started-with-shunter",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "shunter": "*"
+  }
+}
